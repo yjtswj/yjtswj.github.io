@@ -39,3 +39,22 @@ function appendCross(){
 // function appendCross(){
 //   document.querySelector("#modal").append("×");
 // }
+
+//appendの逆もある。
+
+function plusOne(){
+  document.querySelector("#modal").innerHTML =
+      Number(document.querySelector("#modal").innerHTML ) + 1;
+}
+
+function plusFive(){
+  document.querySelector("#modal").innerHTML =
+      Number(document.querySelector("#modal").innerHTML) + 5;
+}
+
+function plusTen(){
+  document.querySelector("#modal").innerHTML =
+      Number(document.querySelector("#modal").innerHTML) + 10;
+}
+
+//足し算引き算割り算
