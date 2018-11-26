@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9b945b-1ec4-4bea-8bf9-2e36319cb475" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Tyukan_Minami/2018f_Webサイト開発と運用の実践_09.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tyukan_Minami/site/tweets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tyukan_Minami/site/tyukan01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tyukan_Minami/site/tyukan01.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tyukan_Minami/中間課題仕様書.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tyukan_Minami/表示イメージ例.png" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,26 +25,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="54" />
-          <entry key="js" value="87" />
+          <entry key="html" value="55" />
+          <entry key="js" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="54" />
-          <entry key="JavaScript" value="87" />
+          <entry key="HTML" value="55" />
+          <entry key="JavaScript" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="588" />
+          <entry key="html" value="589" />
           <entry key="js" value="4649" />
           <entry key="txt" value="71" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="588" />
+          <entry key="HTML" value="589" />
           <entry key="JavaScript" value="4649" />
           <entry key="PLAIN_TEXT" value="71" />
         </counts>
@@ -60,11 +55,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TyukanMinami/site/tyukan01.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+              <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kadai16.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -85,7 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sample.js" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/function-test.js" />
         <option value="$PROJECT_DIR$/function-test.html" />
@@ -136,6 +148,7 @@
         <option value="$PROJECT_DIR$/kadai16.html" />
         <option value="$PROJECT_DIR$/Tyukan_Minami/site/tyukan01.js" />
         <option value="$PROJECT_DIR$/TyukanMinami/site/tyukan01.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -146,9 +159,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="861" />
+    <option name="x" value="528" />
     <option name="y" value="23" />
-    <option name="width" value="579" />
+    <option name="width" value="912" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectView">
@@ -196,7 +209,7 @@
       <workItem from="1540959946739" duration="9446000" />
       <workItem from="1541574059746" duration="4948000" />
       <workItem from="1541779825325" duration="19263000" />
-      <workItem from="1543208969690" duration="3325000" />
+      <workItem from="1543208969690" duration="3837000" />
     </task>
     <task id="LOCAL-00001" summary="我々は宇宙人だ">
       <created>1539738710091</created>
@@ -324,14 +337,28 @@
       <option name="project" value="LOCAL" />
       <updated>1543215651507</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="中間課題">
+      <created>1543215735421</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1543215735421</updated>
+    </task>
+    <task id="LOCAL-00020" summary="中間課題">
+      <created>1543215863691</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1543215863691</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48408000" />
+    <option name="totallyTimeSpent" value="48920000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="861" y="23" width="579" height="877" extended-state="0" />
+    <frame x="528" y="23" width="912" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -615,13 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kadai16.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kadai14.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -702,7 +722,21 @@
     <entry file="file://$PROJECT_DIR$/TyukanMinami/site/tyukan01.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kadai16.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
         </state>
       </provider>
     </entry>
