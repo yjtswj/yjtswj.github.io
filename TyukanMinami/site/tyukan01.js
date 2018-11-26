@@ -1,7 +1,7 @@
 
 //fetch(url).then(function).then(function)....
 
-fetch("http://yjtswj.github.io/TyukanMinami/tweets.json").then(
+fetch("http://yjtswj.github.io/TyukanMinami/site/tweets.json").then(
   function (response) {
     return response.json();
   }
