@@ -1,3 +1,4 @@
+
 //fetch(url).then(function).then(function)....
 
 fetch("http://morimorihoge.github.io/teu2018f/tweets.json").then(
