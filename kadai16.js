@@ -12,12 +12,10 @@ fetch("http://morimorihoge.github.io/teu2018f/tweets.json").then(
         answerHtml += `<li>${tweet.name}</li>`;
         answerHtml += `${tweet.message}`;
         answerHtml += `${tweet.tweetedAt}`;
-        imggHtml += `${tweet.avatar}`;
 
 
       });
       document.querySelector("#answer").innerHTML = answerHtml;
-      document.querySelector("#imagg").innerHTML = imggHtml;
 
     }
 
