@@ -4,7 +4,7 @@ function checkAge(){
   let answer = document.querySelector("#answer");
 
   // 下から条件を書いていった場合
-  if(ageNumber <= 0){
+  if(ageNumber < 0){
     answer.innerHTML = "エラー";
   }else if(ageNumber < 20){
     answer.innerHTML = "未成年";

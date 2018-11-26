@@ -1,4 +1,5 @@
 let fruitsHTML = "<ul>";
+let answer = document.querySelector("#answer");
 
 // fruitsNamesからliタグを作ってfruitsHTMLに
 // += で追加していく
@@ -16,5 +17,5 @@ for(let i = 0;i < fruitNames.length;i++){
 }
 
 fruitsHTML += "</ul>";
-document.querySelector("#answer").innerHTML = fruitsHTML;
+answer.innerHTML = fruitsHTML;
 

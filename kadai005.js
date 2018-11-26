@@ -10,6 +10,7 @@ function checkUserInput(){
 
 
 ///汎用版
+//kadai05.1
 //
 // function checkUserInput(){
 //   let input = document.querySelector("#user_input");

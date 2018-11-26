@@ -3,6 +3,8 @@
 // 値が5で割り切れる場合はBuzz
 // 値が3と5両方で割り切れるFizzBuzz
 // 上記どれでもない場合はその値を表示
+//改行してるンゴ、なんで+=入ってるンゴ？
+
 function doFizzBuzz(){
   let answer = document.querySelector("#answer");
   let i = 1;

@@ -5,7 +5,7 @@ function doLoop() {
 
   let i = 0;
   let sum = 0;
-  while(i <= 1000){
+  while(i <= 10000){
     sum = sum + i;
     // sum += i; // ↑と同じ意味
     console.log(`sum: ${sum}, i: ${i}`);
@@ -14,7 +14,7 @@ function doLoop() {
     }
     i++;
   }
-  answer.innerHTML = i;
+  answer.innerHTML = sum;
 }
 
 
