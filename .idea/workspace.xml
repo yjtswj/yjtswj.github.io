@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4a9b945b-1ec4-4bea-8bf9-2e36319cb475" name="Default Changelist" comment="中間課題">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4a9b945b-1ec4-4bea-8bf9-2e36319cb475" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Tyukan_Minami/2018f_Webサイト開発と運用の実践_09.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyukan_Minami/site/tweets.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyukan_Minami/site/tyukan01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyukan_Minami/site/tyukan01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyukan_Minami/中間課題仕様書.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tyukan_Minami/表示イメージ例.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,13 +31,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="html" value="54" />
-          <entry key="js" value="86" />
+          <entry key="js" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="54" />
-          <entry key="JavaScript" value="86" />
+          <entry key="JavaScript" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -56,10 +61,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tyukan_Minami/site/tyukan01.js">
+        <entry file="file://$PROJECT_DIR$/TyukanMinami/site/tyukan01.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="45">
+              <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -80,7 +85,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/testjs.js" />
         <option value="$PROJECT_DIR$/sample.js" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/function-test.js" />
@@ -131,6 +135,7 @@
         <option value="$PROJECT_DIR$/Tyukan_Minami/tyukan01.js" />
         <option value="$PROJECT_DIR$/kadai16.html" />
         <option value="$PROJECT_DIR$/Tyukan_Minami/site/tyukan01.js" />
+        <option value="$PROJECT_DIR$/TyukanMinami/site/tyukan01.js" />
       </list>
     </option>
   </component>
@@ -191,7 +196,7 @@
       <workItem from="1540959946739" duration="9446000" />
       <workItem from="1541574059746" duration="4948000" />
       <workItem from="1541779825325" duration="19263000" />
-      <workItem from="1543208969690" duration="3238000" />
+      <workItem from="1543208969690" duration="3325000" />
     </task>
     <task id="LOCAL-00001" summary="我々は宇宙人だ">
       <created>1539738710091</created>
@@ -312,11 +317,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543215588386</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="中間課題">
+      <created>1543215651507</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1543215651507</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48321000" />
+    <option name="totallyTimeSpent" value="48408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="861" y="23" width="579" height="877" extended-state="0" />
@@ -682,8 +694,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tyukan_Minami/site/tyukan01.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TyukanMinami/site/tyukan01.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" lean-forward="true" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
         </state>
       </provider>
     </entry>
